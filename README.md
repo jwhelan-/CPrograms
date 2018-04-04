@@ -1,6 +1,6 @@
 # C Programs - John Whelan
 
-This repo is just a collection of C programs I completed for my CIS 190 course
+This repo is a collection of C programs I completed for my CIS 190 course
 
 ## Getting Started
 
