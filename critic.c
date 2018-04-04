@@ -6,8 +6,6 @@
 #include <stdio.h>
 #include <string.h>
  
-//function prototype
-void print (REVIEW);
  
 //create the structure
 typedef struct review{
@@ -17,6 +15,9 @@ typedef struct review{
     int rating;
 }REVIEW;
  
+ //function prototype
+void print (REVIEW);
+
 //main method
 int main(void)
 {
